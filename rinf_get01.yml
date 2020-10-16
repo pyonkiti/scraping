@@ -1,0 +1,6 @@
+
+# 3G.csvと、LTE.csvのファイル名
+csv_3g_nm: 'csv/3G'
+csv_lt_nm: 'csv/LTE'
+csv_3g_out: 'csv/3Gout'
+csv_lt_out: 'csv/LTEout'
